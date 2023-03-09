@@ -1,7 +1,7 @@
 Linear regression is a statistical method for modeling the linear relationship between a dependent variable y and one or more independent variables x. The goal of linear regression is to find the best-fit line that can explain the relationship between x and y.
 
-How to Implement Linear Regression
-To implement linear regression, you need to follow these steps:
+How to Implement Linear Regression,
+to implement linear regression, you need to follow these steps:
 
 Collect and preprocess the data: Collect the data and preprocess it by cleaning, transforming, and scaling it as necessary. Split the data into training and test sets.
 
